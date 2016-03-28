@@ -1,0 +1,36 @@
+Q1:The diff command enabled me to focus on the interesting content of the file.
+With this command I was able to focus on the potential sources of error and 
+ignore by targeting differences between the previous functioning version and the
+current version.
+
+Q2:How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A:The fact that i could access to the history of a file enables me go scroll
+through history and identify the different changes introduced at each stage and
+experiment the impact these changes had on the development to identify potential
+errors or improvements.
+
+Q3:What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having verions automatically saved, like Google
+Docs does ?
+A:PROS: 1.you can keep the content of each commit coherent with a logical activi
+ty. 2.Each version has a funtional and logical meaning.
+CONS: 1. You might not commit often enough or forget to commit. 2.Commit is com
+pletely user dependent.
+
+Q4:Why do you think some version contrl systems, like Git, allow saving multiple
+files in one comit, while other, like Google Docs, treat each file seperately?
+A:Git was built in a programmer logic where logical changes are considered.
+These logical changes may span across multiple physical files. It is thus impor
+tant to capture all the changes at once to capture the logic modifications.
+
+Q4:How can you use the commands git log and git diff to view the history of files?
+A:Use git log to report the logical changes contained in the commit and to
+collect the ID of the commit that will be used by git diff to report the speci
+fics of that particular task.
+
+Q5:How might using this version control make you more confident to make changes that could break something?
+A: You can easily revert changes and explore the different versions of your
+project to get the latest functional copy easily.
+
+Q6:Now that you have your workspace set up, what do you want to try using Git for ?
+A:Build an android project in Git.
