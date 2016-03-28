@@ -1,2 +1,4 @@
 Q1:Boh.
 A:Boh.
+Q2:How is staging area different from the wirking directory and repository? What value do you think it offers?
+A:It enables the user to save intermediate versions of his work while building the big picture. It also enables to join multiple files in a unique commit/single logical entity.
